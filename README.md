@@ -8,3 +8,5 @@ in browser check the url "http://localhost:8080"
 
 
 Jenkins url "http://ec2-18-223-180-118.us-east-2.compute.amazonaws.com:8080"
+
+test
